@@ -5,7 +5,7 @@
 /************************************************
 *             Ded Teddiez Remix!                *
 *       Cute as hell, but Ded as well           *
-* Created by: Dutch guardian of the Angles Blue *
+* Created by: Dutch guardian of the Angels Blue *
 *************************************************/
 pragma solidity ^0.8.0;
 
